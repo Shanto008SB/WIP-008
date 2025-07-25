@@ -1,4 +1,9 @@
-Domain Reconnaissance Tool 🕵️‍♂️A powerful, user-friendly GUI tool built with Python for performing reconnaissance on a target domain. It automates the discovery of subdomains, checks their live status, detects Web Application Firewalls (WAFs), and finds historical IP information, saving all findingsLive Status: Shows which subdomains are active and which are not.Detects Firewalls (WAF): Tries to identify common web application firewalls.Finds Historical IPs: Looks up past IP addresses associated with the domain.Saves Results: Automatically saves a full report to a .txt file.Easy to Use: A clean and simple graphical interface.🚀 How to Use1. SetupFirst, clone the project and install the necessary packages.# Clone the project from GitHub
+# WIP-008
+-------------
+Domain Reconnaissance Tool 🕵️‍♂️A powerful, user-friendly GUI tool built with Python for performing reconnaissance on a target domain. It automates the discovery of subdomains, checks their live status, detects Web Application Firewalls (WAFs), and finds historical IP information, saving all findingsLive Status: Shows which subdomains are active and which are not.Detects Firewalls (WAF): Tries to identify common web application firewalls.Finds Historical IPs: Looks up past IP addresses associated with the domain.Saves Results: Automatically saves a full report to a .txt file.Easy to Use: A clean and simple graphical interface.🚀 How to Use1. SetupFirst, clone the project and install the necessary packages.
+
+# Clone the project from GitHub
+
 ```bash
 git clone [https://github.com/your-username/your-repository-name.git](https://github.com/your-username/your-repository-name.git)
 ```
@@ -28,7 +33,7 @@ git clone [https://github.com/your-username/your-repository-name.git](https://gi
 
 1.  Run the application from your terminal:
     ```bash
-    python recon_app.py
+    python recon_kal.py
     ```
 
 2.  A splash screen will appear for 3 seconds, followed by the main application window.
